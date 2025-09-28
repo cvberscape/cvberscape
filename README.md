@@ -1,6 +1,6 @@
-## Hi there 👋
+# ✴ C V B E R S C Λ P E
 
-![l](./wtnw.gif))
+![](./wtnw.jpg))
 
 <!--
 **cvberscape/cvberscape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
